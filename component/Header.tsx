@@ -5,21 +5,18 @@ export default function Nav(){
   
   <div className="navbar">
   <div className="icon">
-      <h2 className="logo">UTC</h2>
+      <h2 className="logo">Developer</h2>
     </div>
     <div className="menu">
       <ul>
       <li>< a href="/">Home</a></li>
-<li>< a href="/AboutUs">AboutUs</a ></li>
  <li> <a  href="Courses">Courses</a></li>
- <li> < a  href="/Login"className="contenthdr"> Login!</a ></li>
-
+ <li>< a href="/Projects">Projects</a ></li>
+ <li>< a href="/AboutUs">AboutMe</a ></li>
+ 
       </ul>
     </div>
-    <div className="search">
-      <input className="srch" type="search" name="" placeholder="Type To Text"></input>
-      <a href="/Courses"><button className="btn">Search </button></a>
-    </div>
+    
     </div>
 
       

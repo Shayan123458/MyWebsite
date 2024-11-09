@@ -1,12 +1,12 @@
 import Footer from "../../../component/Footer"
 import Nav from "../../../component/Header"
-export default function AboutUs (){
+export default function Projects(){
     return (
         <div className="main">
          <Nav/>
          <div className="content">
-            <h1>ABOUT ME</h1>
-            <h2>Hi! My Name is Shayan Ahmed and I'm a back-end developer and I'm recently enrolled in Governer Initiative Program. </h2>
+            <h1>My Projects</h1>
+            
         </div>
         <Footer/>
         </div>
