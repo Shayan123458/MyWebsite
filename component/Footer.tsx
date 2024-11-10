@@ -5,8 +5,8 @@ export default function Footer(){
     <div className="menu">
       <b>
         
-      <li><a href ="https://vercel.com/farzan-ahmeds-projects">Vercel</a></li>
-    <li><a href ="https://github.com/Farzan123458?tab=repositories">Github</a></li>
+      <li><a href ="https://vercel.com/shayan123458s-projects">Vercel</a></li>
+    <li><a href ="https://github.com/Shayan123458">Github</a></li>
       </b>
     </div>
 

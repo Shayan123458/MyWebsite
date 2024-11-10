@@ -5,7 +5,7 @@ export default function Nav(){
   
   <div className="navbar">
   <div className="icon">
-      <h2 className="logo">Developer</h2>
+      <h2 className="logo">Creative</h2>
     </div>
     <div className="menu">
       <ul>

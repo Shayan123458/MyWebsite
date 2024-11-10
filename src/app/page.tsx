@@ -8,7 +8,7 @@ export default function AboutUs (){
          <Nav/>
           <div className="contenthome">
             <div className="personalimage"></div>
-            <h1>I'm Farzan Ahmed</h1>
+            <h1>I am Shayan Ahmed</h1>
           </div>
           <Footer/>
       </div>
